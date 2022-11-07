@@ -4,6 +4,7 @@
 
 *.pth
 *.pt
+*.zip
 
 ### Linux ###
 *~
